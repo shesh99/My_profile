@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shesh99" alt="shesh99" /></a> </p>
 
-- 📫 How to reach me **sheshandilanka99@gmail.com**
-
-- ⚡ Fun fact **Your Mindset is your Reality**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cooraysheshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cooraysheshan" height="30" width="40" /></a>
